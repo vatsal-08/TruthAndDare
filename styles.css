@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+}
+.heading {
+  font-size: 6rem;
+  font-family: "Sacramento", "Open Sans", sans-serif;
+  font-weight: 900;
+}
+.results p {
+  display: inline-block;
+  margin: 5rem;
+}
+.butn {
+  margin: 5rem;
+}
+.answer {
+  font-size: 4rem;
+  font-family: "Sacramento", "Open Sans", sans-serif;
+  font-weight: 900;
+}
